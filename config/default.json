@@ -1,0 +1,19 @@
+{
+    "length": 8,
+    "allow_digit": true,
+    "allow_digitWitChar": true,
+    "allow_currency": false,
+    "allow_email": true,
+    "allow_date": true,
+    "allow_url": false,
+    "allow_phoneNumber": false,
+    "allow_ssn": false,
+    "allow_ip": true,
+    "to_gray": false,
+    "banned_list": [
+        "UI/UX",
+        "Video"
+    ],
+    "allowed_list": [],
+    "lang": "eng"
+}

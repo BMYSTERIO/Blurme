@@ -1,0 +1,4 @@
+{
+    "poppler_path": "lib\\poppler",
+    "tesseract_path": "lib\\tesseract"
+}
